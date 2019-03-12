@@ -1,0 +1,7 @@
+E:\Besant Technology\MVC\WebAPI-Tutorial\WebAPI-Tutorial\Singleton\Singleton.Business\bin\Debug\Singleton.Business.dll
+E:\Besant Technology\MVC\WebAPI-Tutorial\WebAPI-Tutorial\Singleton\Singleton.Business\bin\Debug\Singleton.Business.pdb
+E:\Besant Technology\MVC\WebAPI-Tutorial\WebAPI-Tutorial\Singleton\Singleton.Business\bin\Debug\Singleton.Models.dll
+E:\Besant Technology\MVC\WebAPI-Tutorial\WebAPI-Tutorial\Singleton\Singleton.Business\bin\Debug\Singleton.Models.pdb
+E:\Besant Technology\MVC\WebAPI-Tutorial\WebAPI-Tutorial\Singleton\Singleton.Business\obj\Debug\Singleton.Business.csprojResolveAssemblyReference.cache
+E:\Besant Technology\MVC\WebAPI-Tutorial\WebAPI-Tutorial\Singleton\Singleton.Business\obj\Debug\Singleton.Business.dll
+E:\Besant Technology\MVC\WebAPI-Tutorial\WebAPI-Tutorial\Singleton\Singleton.Business\obj\Debug\Singleton.Business.pdb
